@@ -5,5 +5,6 @@
 <div align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaziabulhasib" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaziabulhasib&layout=compact" alt="Top Languages" />
+  
 </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaziabulhasib&layout=compact" alt="Top Languages" />
