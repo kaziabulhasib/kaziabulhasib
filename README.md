@@ -11,7 +11,7 @@
 <div align="center">
   <h2>Top Languages</h2>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaziabulhasib&layout=compact" alt="Top Languages" style="max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaziabulhasib&layout=compact" alt="Top Languages" style="max-width: 100% ; width:400px">
   </a>
 </div>
 
