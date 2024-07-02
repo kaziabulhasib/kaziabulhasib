@@ -7,7 +7,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaziabulhasib" alt="GitHub Streak" style="width: 100%; max-width: 100%; height: 200px;" />
   
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaziabulhasib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaziabulhasib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 
