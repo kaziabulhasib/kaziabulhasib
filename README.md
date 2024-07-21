@@ -33,3 +33,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="50" height="30"/>
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/firebase/firebase-original.svg" alt="Firebase" width="50" height="30"/>
 </div>
+
+
+<div align="center" style="width: 100%; max-width: 100%; border: 1px solid transparent; border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08); backdrop-filter: blur(10px); margin-top: 48px;">
+  <h2 style="text-align:center"> Currently Exploring</h2>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="TypeScript" width="50" height="30"/>
+  
+</div>
