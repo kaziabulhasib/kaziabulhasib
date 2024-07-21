@@ -37,8 +37,9 @@
 
 <div align="center" style="width: 100%; max-width: 100%; border: 1px solid transparent; border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08); backdrop-filter: blur(10px); margin-top: 48px;">
   <h2 style="text-align:center"> Currently Exploring</h2>
-  <img src="https://i.ibb.co/ctYHPYB/redux.png" alt="Redux" width="70" height="50"/>
+  
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="Redux" width="70" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Redux"" width="70" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="70" height="50"/>
   
 </div>
