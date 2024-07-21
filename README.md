@@ -39,5 +39,6 @@
   <h2 style="text-align:center"> Currently Exploring</h2>
   <img src="https://i.ibb.co/ctYHPYB/redux.png" alt="Redux" width="70" height="50"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="Redux" width="70" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Redux"" width="70" height="50"/>
   
 </div>
