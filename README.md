@@ -1,26 +1,22 @@
-
-
-
-![GitHub Banner](https://i.ibb.co/LDf3cNjR/git-Banner.jpg)
-
-<div align="center" style="width: 100%; max-width: 100%; border: 1px solid transparent; border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08); backdrop-filter: blur(10px);">
-  <h2 style="text-align:center">  Stats </h2>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaziabulhasib" alt="GitHub Streak" style="width: 100%; max-width: 100%; height: 200px;" />
-
-  
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+    <img alt="kaziabulhasib's GitHub profile ASCII card" src="dark_mode.svg" width="100%" />
+  </picture>
 </div>
+
+<div align="center" style="width: 100%; max-width: 100%; border: 1px solid transparent; border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08); backdrop-filter: blur(10px); margin-top: 30px;">
+  <h2 style="text-align:center"> Stats </h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaziabulhasib" alt="GitHub Streak" style="width: 100%; max-width: 100%; height: 200px;" />
+</div>
+
 <div align="center">
   <h2>Top Languages</h2>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaziabulhasib&layout=compact" alt="Top Languages" style="max-width: 100% ;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaziabulhasib&layout=compact" alt="Top Languages" style="max-width: 100%;">
   </a>
 </div>
-
-
-
-
-
-
 
 <div align="center" style="width: 100%; max-width: 100%; border: 1px solid transparent; border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08); backdrop-filter: blur(10px); margin-top: 48px;">
   <h2 style="text-align:center"> Language & Tools Used </h2>
@@ -34,12 +30,9 @@
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/firebase/firebase-original.svg" alt="Firebase" width="50" height="30"/>
 </div>
 
-
 <div align="center" style="width: 100%; max-width: 100%; border: 1px solid transparent; border-radius: 15px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08); backdrop-filter: blur(10px); margin-top: 48px;">
-  <h2 style="text-align:center"> Currently Exploring</h2>
-  
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="Redux" width="70" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Redux"" width="70" height="50"/>
+  <h2 style="text-align:center"> Currently Exploring </h2>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" alt="TypeScript" width="70" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="70" height="50"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="70" height="50"/>
-  
 </div>
