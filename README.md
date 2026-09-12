@@ -1,7 +1,5 @@
 ### 💫 About Me:
 
-### ✦ About Me:
-
 ⚡ **Current Focus:** Contributing to a scalable design system for a SaaS product, crafting high-performance, reusable component libraries to ensure UI consistency.
 
 💻 **Frontend Architecture:** Crafting responsive, accessible, and user-centric interfaces using **React, Next.js, TypeScript, Redux, Tailwind CSS, Shadcn, React Hook Form, and Zod**.
