@@ -1,10 +1,16 @@
 ### 💫 About Me:
 
-- 🔭 **Current Focus:** Contributing to a scalable design system for a SaaS product, crafting high-performance, reusable component libraries to ensure UI consistency.
-- 🎨 **Frontend Architecture:** Crafting responsive, accessible, and user-centric interfaces using **React, Next.js, TypeScript, Redux, Tailwind CSS, Shadcn, React Hook Form, and Zod**.
-- ⚙️ **Backend & Databases:** Building robust APIs and microservices with **Node.js, Express, Prisma, Mongoose, PostgreSQL, MySQL, and MongoDB**.
-- 🚀 **Performance & Scalability:** Designing secure auth systems, server-side pagination, **Redis**-based caching layers, and reliable payment integrations.
-- 🎯 **Engineering Goal:** Delivering maintainable, scalable, end-to-end solutions that help teams ship faster and build impactful user experiences.
+### ✦ About Me:
+
+⚡ **Current Focus:** Contributing to a scalable design system for a SaaS product, crafting high-performance, reusable component libraries to ensure UI consistency.
+
+💻 **Frontend Architecture:** Crafting responsive, accessible, and user-centric interfaces using **React, Next.js, TypeScript, Redux, Tailwind CSS, Shadcn, React Hook Form, and Zod**.
+
+🗄️ **Backend & Databases:** Building robust APIs and services with **Node.js, Express, Prisma, Mongoose, PostgreSQL, MySQL, and MongoDB**.
+
+📈 **Performance & Scalability:** Designing secure auth systems, server-side pagination, **Redis**-based caching layers, and reliable payment integrations.
+
+🎯 **Engineering Goal:** Delivering maintainable, scalable, end-to-end solutions that help teams ship faster and build impactful user experiences.
 
 
 ## 🌐 Socials:
