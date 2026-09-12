@@ -1,5 +1,10 @@
-# 💫 About Me:
-Hi, I’m Hasib, a Full Stack Developer with strong expertise in both front-end and back-end development. Currently contributing to a scalable design system for a SaaS product, I specialize in building high-performance, reusable component libraries that ensure UI consistency across complex applications.<br>On the back-end, I specialize in Node.js, Express, MongoDB, Mongoose, Prisma, MySQL, and PostgreSQL. I can design and implement secure authentication and authorization systems, server-side pagination, Redis-based caching, and payment handling, ensuring scalability and reliability for business-critical applications.<br>On the front-end, I build responsive and user-focused interfaces using React, Next.js, TypeScript, Redux, Tailwind CSS, Shadcn, React Hook Form, and Zod for robust form handling and validation.<br>I bring the ability to design, develop, and deploy complete end-to-end solutions that are scalable, maintainable, and aligned with business goals—helping teams ship faster and deliver impactful user experiences.
+### 💫 About Me:
+
+- 🔭 **Current Focus:** Contributing to a scalable design system for a SaaS product, crafting high-performance, reusable component libraries to ensure UI consistency.
+- 🎨 **Frontend Architecture:** Crafting responsive, accessible, and user-centric interfaces using **React, Next.js, TypeScript, Redux, Tailwind CSS, Shadcn, React Hook Form, and Zod**.
+- ⚙️ **Backend & Databases:** Building robust APIs and microservices with **Node.js, Express, Prisma, Mongoose, PostgreSQL, MySQL, and MongoDB**.
+- 🚀 **Performance & Scalability:** Designing secure auth systems, server-side pagination, **Redis**-based caching layers, and reliable payment integrations.
+- 🎯 **Engineering Goal:** Delivering maintainable, scalable, end-to-end solutions that help teams ship faster and build impactful user experiences.
 
 
 ## 🌐 Socials:
